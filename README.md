@@ -1,5 +1,5 @@
 # Heat-Equation
-Simulations of heat distributing through a solid. They were used for the following video:
+Simulations of heat distributing through a solid. They were made to prepare for the following video:
 
 <p align="center">
     <a href="https://youtu.be/bBLCNzFaTJ0">
