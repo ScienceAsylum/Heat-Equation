@@ -28,7 +28,7 @@ This project began when I made the following educational YouTube video:
 
 My goal was to render the frames of the simulation using a capture command in the animation loop:
 
-```
+```ruby
 scene.capture("FileName.png")
 ```
 
